@@ -11,6 +11,9 @@
         "src": "/(.*)",
         "dest": "/dist/main.js"
       }
-    ]
+    ],
+    "hooks": {
+      "build": "npm run vercel-build"
+    }
   }
   
