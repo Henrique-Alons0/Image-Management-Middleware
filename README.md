@@ -27,18 +27,22 @@ Uma API desenvolvida com **Nest.js** para upload e processamento de imagens. Est
 1. Clone o repositório:
   ```bash
     git clone https://github.com/seu-usuario/image-processing-api.git
+  ```
 
 2. Navegue até o diretório do projeto:
   ```bash
     cd image-processing-api
+  ```
 
 3. Instale as dependências:
   ```bash
     npm install
+  ```
 
 4. Clone o repositório:
   ```bash
     npm run start
+  ```
 
 ## Endpoints
 
