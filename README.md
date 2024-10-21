@@ -1,6 +1,6 @@
 # Image Processing API
 
-Uma API desenvolvida com **Nest.js** para upload e processamento de imagens. Esta aplicação permite receber imagens em diversos formatos, redimensioná-las para 3800 x 3000 pixels e retorná-las no formato desejado como uma string em base64. A API foi projetada para atender aos padrões e políticas de recebimento de imagens da empresa.
+Uma API desenvolvida com **Nest.js** para upload e processamento de imagens. Esta aplicação permite receber imagens em diversos formatos, redimensioná-las para 3800 x 3000 pixels e retorná-las no formato desejado como uma string em base64. A API foi projetada para atender quaisquer padrões e políticas de recebimento de imagens.
 
 ## Funcionalidades
 
@@ -26,19 +26,23 @@ Uma API desenvolvida com **Nest.js** para upload e processamento de imagens. Est
 
 1. Clone o repositório:
   ```bash
-    git clone https://github.com/seu-usuario/image-processing-api.git
+    git clone https://github.com/Henrique-Alons0/Image-Management-Middleware.git
+  ```
 
 2. Navegue até o diretório do projeto:
   ```bash
-    cd image-processing-api
+    cd Image-Management-Middleware
+  ```
 
 3. Instale as dependências:
   ```bash
     npm install
+  ```
 
 4. Clone o repositório:
   ```bash
     npm run start
+  ```
 
 ## Endpoints
 
